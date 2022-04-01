@@ -1,13 +1,5 @@
 /*
 
-================ Extension Commentary =======================
-
-The extensions that I have implemented are the on-screen keyboard, where users are able to see which keys will work in the game. 
-The second extension that I have implemented is the fireball, which the character fires and kill the enemy. As the game proceeds, 
-the difficulty to kill an enemy with a single fireball will be harder.The bits which I found difficult were how the fireball would be spliced. 
-Therefore, out of the many attempts that I tried. I found this to be the most appropriate for this game. It would extinguish when it reaches a 
-distance. The skills that I have learnt were on how to edit the constructor functions and give it a better tweak to the game that you desire. 
-It was a great learning experience to play with the constructor function and see what would happen. 
 */
 
 
