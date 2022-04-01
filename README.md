@@ -1,2 +1,3 @@
 # SimpleWebGame
-P5.js Game
+==================================
+This is a game drawn using p5.js.
